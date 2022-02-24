@@ -1,0 +1,16 @@
+{
+    "Name": "Spoons.DMC5Lobby",
+    "Description": "Replaces the lobby music with the Devil May Cry 5 OST",
+    "Version": "1.0.0",
+
+    "LoadPriority": 1,
+    "ConVars": [],
+    "Scripts": 
+    [
+        
+    ],
+    "Localisation": 
+    [
+        
+    ]
+}
